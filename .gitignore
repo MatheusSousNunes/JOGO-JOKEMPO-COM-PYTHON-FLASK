@@ -1,0 +1,11 @@
+# Ignorar ambiente virtual grande
+venv/
+
+# Ignorar arquivos de cache e compilação do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de configuração do IDE (PyCharm/VS Code)
+.idea/
+.vscode/
+*.iml
